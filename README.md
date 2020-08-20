@@ -7,7 +7,7 @@
 [![Build Status](https://travis-ci.org/openAGI/tefla.svg?branch=master)](https://travis-ci.org/openAGI/tefla)
 [![PyPI version](https://badge.fury.io/py/tefla.svg)](https://badge.fury.io/py/tefla)
 [![Build Status](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/openagi/tefla/blob/master/LICENSE)
-[![Downloads](https://pepy.tech/badge/dominance-analysis)](https://pepy.tech/project/dominance-analysis)
+[![Downloads](https://pepy.tech/badge/tefla)](https://pepy.tech/project/tefla)
 
 Tefla is built on top of Tensorflow for fast prototyping of deep learning algorithms. It provides high level access to the features of tensorflow. An interface to easily build complex models. 
 
